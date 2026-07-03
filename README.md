@@ -4,8 +4,8 @@ This project is a Python-based Blood Bank Management System designed to manage d
 
 # Features
 Manage donor and blood-related data,
-  Analyze blood donor dataset,
-Visualize donation trends and blood availability
-Provide a simple dashboard for better understanding of data
-Support data cleaning and exploratory analysis
+Analyze blood donor dataset,
+Visualize donation trends and blood availability,
+Provide a simple dashboard for better understanding of data,
+Support data cleaning and exploratory analysis,
 Tech Stack
